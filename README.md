@@ -15,3 +15,4 @@ Switch to project directory
 Run the project 
 
 `flutter run`
+
